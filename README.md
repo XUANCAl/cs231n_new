@@ -57,4 +57,4 @@ You can also see your score in your Programming Assignment "My Submission" tab.
 
 * Ensure that the **DOCTYPE** is declared at the beginning of the file.
 * Remember that HTML documents have a specific structure.
-* Review the lessons *What is HTML?* and *HTML Documents.*
+* Review the lessons *What is HTML?* and *HTML Documents.*# cs231n_new
